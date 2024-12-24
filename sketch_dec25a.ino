@@ -15,7 +15,7 @@ const char* ssid = "test1";       // Замените на ваш SSID
 const char* password = "test123456"; // Замените на ваш пароль
 
 // Настройки Telegram Bot
-#define BOT_TOKEN "7356036604:AAEEFKO6NDakRTLK95OB-WHx8pJeNnSPRLI"  // Замените на токен вашего бота
+#define BOT_TOKEN "чувак ты надеялся что я так просто палю токен бота???"  // Замените на токен вашего бота
 const unsigned long BOT_MTBS = 500; // Интервал проверки новых сообщений (1 секунда)
 
 WiFiClientSecure secured_client;
